@@ -9,8 +9,8 @@
 <br/>
 <br/>
 ### [프로젝트 기간]  📅
-<Strong>1차</Strong>: 2023.01.06 - 2023.01.24 > **Maven+Mybatis** <br/>
-<Strong>2차</Strong>: 2023.01.06 - 2023.01.24 > **SpringBoot+JPA+RestFul** <br/>
+<Strong>1차</Strong>: 2023.01.06. - 2023.01.24 > **Maven+Mybatis** <br/>
+<Strong>2차</Strong>: 2023.02.20. - 2023.03.13 > **SpringBoot+JPA+RestFul** <br/>
 <br/>
 <br/>
 
